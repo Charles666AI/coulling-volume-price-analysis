@@ -6,7 +6,7 @@
 
 ## 安装与调用
 
-仓库位于GitHub账号 `Charles666AI` 下。私有仓库需先具备读取权限与GitHub认证。
+仓库公开发布于GitHub账号 `Charles666AI` 下。
 
 ```sh
 npx skills add https://github.com/Charles666AI/coulling-volume-price-analysis --skill coulling-volume-price-analysis
@@ -56,4 +56,4 @@ python tools/check_package.py
 
 ## 来源权利
 
-这是来自第三方版权书籍的私人学习技能，默认保持私有。未获得公开再分发授权前，不公开发布本资料；没有给原书衍生内容赋予MIT等开源许可。详情见 [COPYRIGHT.md](COPYRIGHT.md)。
+用户于2026-10-08明确选择公开仓库，并确认已获本书衍生技能内容的公开再分发授权。本次公开发布以该声明为依据；没有给原书衍生内容赋予MIT等开源许可。详情见 [COPYRIGHT.md](COPYRIGHT.md)。
