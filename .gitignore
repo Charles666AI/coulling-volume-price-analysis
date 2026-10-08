@@ -1,0 +1,25 @@
+# Private source material and temporary extraction outputs
+*.epub
+*.pdf
+*.mobi
+*.azw
+*.azw3
+*.docx
+full_text.txt
+metadata.json
+chapters-source/
+.book-to-skill-work/
+figure-sheet-*
+Image*.jpg
+Image*.png
+
+# Local runtime and editor artifacts
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
